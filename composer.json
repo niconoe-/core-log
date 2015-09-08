@@ -1,0 +1,15 @@
+{
+    "name": "Core/Log",
+    "description": "--",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "Core",
+        "log",
+        "logging"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\Log\\": "src/"
+        }
+    }
+}
